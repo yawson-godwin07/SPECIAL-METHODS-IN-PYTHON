@@ -1,7 +1,7 @@
 #  Assignment: Special Methods in Python
 
 ## Overview
-This repository contains a completed Jupyter Notebook focused on implementing and demonstrating Python special methods (also referred to as magic or dunder methods). The primary objective is to illustrate how user-defined object structures can utilize native Python operators, iteration flows, and formatting configurations.
+This repository contains a completed Jupyter Notebook focused on implementing and demonstrating Python special methods (also referred to as magic or dunder methods). The primary objective is to illustrate how user-defined object structures can utilize native Python operators.
 
 ---
 
