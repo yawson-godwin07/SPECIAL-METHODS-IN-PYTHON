@@ -28,6 +28,6 @@ The uploaded notebook contains distinct practical scripts and commentary blocks 
 
 ## Academic Context
 * **Institution:** University of Mines and Technology (UMaT)
-* **Course:** EL 162/234 – Object Oriented Programming
+* **Course:** EL 162 – Object Oriented Programming
 * **Author:** Godwin Paa Kwesi Yawson
 *
