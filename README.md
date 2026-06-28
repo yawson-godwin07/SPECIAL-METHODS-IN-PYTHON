@@ -21,8 +21,8 @@ The uploaded notebook contains distinct practical scripts and commentary blocks 
 11. `__contains__` – Implementing custom membership checks for the `in` operator
 12. `__call__` – Allowing an object instance to be executed like a standard function
 13. `__iter__` – Initializing a custom iteration protocol loop interface
-14. `__next__` – Fetching successive elements during sequence traversal
-15. `__bool__` – Determining truth-value evaluation states for logical conditions
+14. `__bool__` – Determining truth-value evaluation states for logical conditions
+15. `__del__` – Destructor lifecycle closure for object cleanups
 
 ---
 
